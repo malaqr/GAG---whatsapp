@@ -52,7 +52,7 @@ Este projeto automatiza a criação de grupos no WhatsApp usando dados de uma pl
 
 - **Eclipse IDE**
 - **Java Development Kit (JDK)** (Baixe e instale)
-- **Maven** para gerenciamento de dependências (incluído nos arquivos)
+- **Maven** para gerenciamento de dependências (https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip)
 - **ChromeDriver** para automação do Chrome (incluído nos arquivos)
 - **Planilha de Teste**
 
