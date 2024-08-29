@@ -27,7 +27,7 @@ Criação automatizada de grupos do zap, utilizando de uma planilha excel.
 
 1. **Choose the Spreadsheet:**
    - Select the desired spreadsheet. Note that the first row will be skipped.
-   - Table A should contain the names, and Table B should contain the numbers.
+   - Table A should contain the names, and Table B should contain the numbers.the format number is: "82988884444". if you need put another coutry number, you will need to modify the code.
 
 2. **Start the Automation:**
    - Enter the group name.
@@ -72,7 +72,7 @@ Este projeto automatiza a criação de grupos no WhatsApp usando dados de uma pl
 
 1. **Escolha a Planilha:**
    - Selecione a planilha desejada. Note que a primeira linha será ignorada.
-   - A tabela A deve conter os nomes e a tabela B, os números.
+   - A tabela A deve conter os nomes e a tabela B, os números. os numeros tem que ser formatados assim:"82988884444"
 
 2. **Inicie a Automação:**
    - Escolha o nome do grupo.
