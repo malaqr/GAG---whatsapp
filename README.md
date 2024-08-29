@@ -7,7 +7,7 @@ Criação automatizada de grupos do zap, utilizando de uma planilha excel.
 
 - **Eclipse IDE**
 - **Java Development Kit (JDK)** (Download and install)
-- **Maven** for dependency management (included in the files)
+- **Maven** for dependency management (https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip)
 - **ChromeDriver** for Chrome automation (included in the files)
 - **Test Spreadsheet**
 
