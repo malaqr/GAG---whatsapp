@@ -16,7 +16,7 @@ Criação automatizada de grupos do zap, utilizando de uma planilha excel.
 1. Add the paths for Maven and ChromeDriver to your environment variables:
    - Search for "Environment Variables" in Windows (you can add them for either the user or system; user variables are only valid for the current user, while system variables are for all users on the PC).
    - Create a variable named `MAVEN_HOME` and set its value to the directory of `apache-maven-3.9.9`.
-   - Go to the `Path` variable, click "Edit," then click "New" (be careful not to delete or overwrite existing entries). Add `%MAVEN_HOME%\bin` (without quotes) as a new entry.
+   - Go to the `Path` variable, click "Edit," then click "New" (be careful not to delete or overwrite existing entries). Add `%MAVEN_HOME%\bin` as a new entry.
    - In the `Path` variable, add another entry for the directory of the ChromeDriver folder `chromedriver-win64`.
 
 2. Within the project:
@@ -61,7 +61,7 @@ Este projeto automatiza a criação de grupos no WhatsApp usando dados de uma pl
 1. Adicione os caminhos para Maven e ChromeDriver nas variáveis de ambiente:
    - Pesquise "Variáveis de Ambiente" no Windows (você pode adicioná-las para o usuário ou para o sistema; variáveis de usuário são válidas apenas para o usuário atual, enquanto variáveis de sistema são para todos os usuários do PC).
    - Crie uma variável chamada `MAVEN_HOME` e defina seu valor como o diretório de `apache-maven-3.9.9'.
-   - Vá até a variável `Path`, clique em "Editar", depois clique em "Novo" (cuidado para não excluir ou sobrepor entradas existentes). Adicione `%MAVEN_HOME%\bin` (sem aspas) como uma nova entrada.
+   - Vá até a variável `Path`, clique em "Editar", depois clique em "Novo" (cuidado para não excluir ou sobrepor entradas existentes). Adicione `%MAVEN_HOME%\bin` como uma nova entrada.
    - Na variável `Path`, adicione outra entrada para o diretório da pasta do ChromeDriver `chromedriver-win64`.
 
 2. Dentro do projeto:
