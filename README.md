@@ -8,7 +8,7 @@ Criação automatizada de grupos do zap, utilizando de uma planilha excel.
 - **Eclipse IDE**
 - **Java Development Kit (JDK)** (Download and install)
 - **Maven** for dependency management (https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip)
-- **ChromeDriver** for Chrome automation (included in the files)
+- **ChromeDriver** for Chrome automation (https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win64/chromedriver-win64.zip)
 - **Test Spreadsheet**
 
 ## Setting Up the Environment
@@ -53,7 +53,7 @@ Este projeto automatiza a criação de grupos no WhatsApp usando dados de uma pl
 - **Eclipse IDE**
 - **Java Development Kit (JDK)** (Baixe e instale)
 - **Maven** para gerenciamento de dependências (https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip)
-- **ChromeDriver** para automação do Chrome (incluído nos arquivos)
+- **ChromeDriver** para automação do Chrome (https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win64/chromedriver-win64.zip)
 - **Planilha de Teste**
 
 ## Preparando o Ambiente de Trabalho
